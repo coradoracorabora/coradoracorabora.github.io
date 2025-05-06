@@ -1,6 +1,6 @@
 //this is what creates the molds
 let molds = [];
-let num = 2000;
+let num = 6000;
 
 //this is pixel density
 let d;
