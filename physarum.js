@@ -65,7 +65,8 @@ class Mold {
         c = pixels[index];
 
         //thank you console
-        print(r, l, c);
+        //commenting this out because it was good to make sure things were running but now it makes looking at the console on the webpage so impossibly slow
+        //print(r, l, c);
 
         //conditionals to compare which direction the mold should travel
         // if the center is most, then no value change
